@@ -28,7 +28,7 @@ Visual Studio에서 프로젝트 속성에서 VC++ 디렉터리 > 포함 디렉�
 opencv_world470.lib (버전에 맞게 파일 이름을 수정하세요)
 
 * 제가 참고한 사이트 입니다.
-https://m.blog.naver.com/dorergiverny/223057719024
+https://m.blog.naver.com/dorergiverny/223057719024 
 https://velog.io/@mouse0429/openCVVisual-Studio-OpenCV-%EC%84%A4%EC%B9%98
 
 5) 실행 방법
